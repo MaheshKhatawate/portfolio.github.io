@@ -1,11 +1,10 @@
-/* Reset default margin and padding */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Global Styles */
+
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #f0f4f8;
@@ -14,7 +13,7 @@ body {
     padding: 0;
 }
 
-/* Container for centering content */
+
 .container {
     width: 90%;
     max-width: 1000px;
@@ -22,7 +21,7 @@ body {
     padding: 20px;
 }
 
-/* Header Styling */
+
 .header {
     background-color: #007bff;
     color: white;
@@ -41,7 +40,7 @@ body {
     font-size: 1.2rem;
 }
 
-/* Section Styling */
+
 section {
     background-color: white;
     padding: 30px;
@@ -78,7 +77,7 @@ ul li a:hover {
     text-decoration: underline;
 }
 
-/* Definition List */
+
 dl {
     margin-top: 20px;
 }
@@ -94,7 +93,7 @@ dl dd {
     color: #666;
 }
 
-/* Blockquote Styling */
+
 blockquote {
     font-size: 1.2rem;
     font-style: italic;
@@ -106,7 +105,7 @@ blockquote {
     border-radius: 5px;
 }
 
-/* Links Styling */
+
 a {
     color: #007bff;
     text-decoration: none;
@@ -117,7 +116,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
     .header h1 {
         font-size: 2rem;
