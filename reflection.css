@@ -69,6 +69,13 @@ section ul li {
     font-size: 1.1rem;
 }
 
+section ul li p{
+    font-size: .8rem;
+    color: black;
+    font-weight: bold;
+    background-color: lightgreen;
+}
+
 /* Responsive Design */
 @media (max-width: 600px) {
     header h1 {
