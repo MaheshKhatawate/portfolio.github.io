@@ -60,3 +60,18 @@ ul li em {
     font-style: italic;
     color: #555;
 }
+
+footer ul li{
+    text-align: center;
+    background-color: #4CAF50;
+    border-radius: 3px;
+}
+
+footer ul li a{
+    color: #333;
+    text-decoration: none;
+}
+
+footer ul li a:hover{
+    text-decoration: underline;
+}
